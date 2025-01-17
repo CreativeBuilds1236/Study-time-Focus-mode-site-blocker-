@@ -39,35 +39,14 @@
 ### Focus Mode Active
 ![Image](https://github.com/user-attachments/assets/19bb510d-82b1-49c5-bd45-b931e36cfd46)
 
-### Break Time
-![Break Time](./screenshots/break_time.png)
+### Blocked page (Example)
+![Image](https://github.com/user-attachments/assets/16685b12-0662-4efb-8fb7-f62a2def924e)
 
 ### Settings
-![Settings](./screenshots/settings.png)
+
+![git](https://github.com/user-attachments/assets/9b349768-3aad-40a7-b112-f7a575debdf4)
 
 ---
-
-## Contributing
-
-We welcome contributions to make Studytime even better! Here’s how you can help:
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
-
 ## Feedback
 
 If you have any suggestions, bugs to report, or general feedback, feel free to open an issue in the google form link given below!
