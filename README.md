@@ -15,14 +15,13 @@
 
 ## Installation
 
-1. Download or clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/Studytime.git
-   ```
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable **Developer Mode** (toggle in the top-right corner).
-4. Click on **Load unpacked** and select the directory where you cloned this repository.
-5. The Studytime extension will now be added to your browser.
+
+1. Open Chrome and go to `chrome://extensions/`.
+2. Enable **Developer Mode** (toggle in the top-right corner).
+3. Click on **Load unpacked** and select the directory where you cloned this repository.
+4. The Studytime extension will now be added to your browser.
+   The extension will be added to the Webstore as soon as it finishes devlopment!
+   github rep
 
 ---
 
@@ -38,7 +37,7 @@
 ## Screenshots
 
 ### Focus Mode Active
-![Focus Mode](./screenshots/focus_mode.png)
+![Image](https://github.com/user-attachments/assets/19bb510d-82b1-49c5-bd45-b931e36cfd46)
 
 ### Break Time
 ![Break Time](./screenshots/break_time.png)
@@ -69,15 +68,10 @@ We welcome contributions to make Studytime even better! Here’s how you can hel
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
 ## Feedback
 
-If you have any suggestions, bugs to report, or general feedback, feel free to open an issue or contact us directly at [your-email@example.com].
+If you have any suggestions, bugs to report, or general feedback, feel free to open an issue in the google form link given below!
+
 
 ---
 
