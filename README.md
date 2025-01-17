@@ -1,4 +1,4 @@
-# Studytime!
+# Studytime! ✏️
 
 ### A Chrome extension designed to help you stay focused and productive by blocking distracting websites during focus sessions. Take scheduled breaks and manage your time efficiently with **Studytime!**
 ![Image](https://github.com/user-attachments/assets/342ee8f2-79bb-432b-bade-7d054a8b40d1)
@@ -53,5 +53,8 @@ If you have any suggestions, bugs to report, or general feedback, feel free to o
 https://docs.google.com/forms/d/e/1FAIpQLSdnccGt90lPtZJEPogesZgTnSjWFRRHRPaLkj4ayfbdClR0UA/viewform?usp=dialog
 
 ---
-
-### Happy Focusing with Studytime! 🚀
+## Persisting problems!
+```bash
+   1/17/2025 Version 1.5: The timer functionality and local storage of timer data seems to be working! but still issues regarding 'serivice worker' and unable to block websites properly persists and will be fixed in future versions!
+```
+### Happy Focusing with Studytime! ✏️
