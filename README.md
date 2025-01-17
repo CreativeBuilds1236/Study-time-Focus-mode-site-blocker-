@@ -71,7 +71,7 @@ We welcome contributions to make Studytime even better! Here’s how you can hel
 ## Feedback
 
 If you have any suggestions, bugs to report, or general feedback, feel free to open an issue in the google form link given below!
-
+https://docs.google.com/forms/d/e/1FAIpQLSdnccGt90lPtZJEPogesZgTnSjWFRRHRPaLkj4ayfbdClR0UA/viewform?usp=dialog
 
 ---
 
